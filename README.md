@@ -6,7 +6,8 @@ It's a script which uses Selenium UI test environment for mozilla browser to kno
  1-Debian Linux distribution (preferred-->Ubuntu)
  
  2-We need geckodriver for Mozilla Firefox. Install it from here. https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
-   \nExtract it into your /usr/bin folder in Linux.
+   
+   Extract it into your /usr/bin folder in Linux.
    
  3-Use python 2.7. PIP Install the required python package of Selenium and remove other errors.
  
