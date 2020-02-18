@@ -11,7 +11,7 @@ import time
 class PythonOrgSearch(unittest.TestCase):
 
     def setUp(self):
-        self.valA=7.5
+        self.valA=5.0
 
     def test_search_in_python_org(self):
         for i in range(250):
