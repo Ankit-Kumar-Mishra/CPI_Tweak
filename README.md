@@ -1,7 +1,7 @@
 # CPI_Cracker
 A simple python script to utilise the vulnerability of a certain web page to gain access into it for fun.
 # What it is about?
-It's a script which uses Selenium UI test environment for mozilla browser to know CPI after 1st year.
+It's a script which uses Selenium UI test environment for mozilla browser to know CPI after 1st year of MNNIT students.
 # Requirements
  1-Debian Linux distribution (preferred-->Ubuntu)
  
